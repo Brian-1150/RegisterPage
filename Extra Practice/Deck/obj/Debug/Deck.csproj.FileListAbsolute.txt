@@ -1,0 +1,7 @@
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\Other\Extra Practice\Deck\bin\Debug\Deck.exe.config
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\Other\Extra Practice\Deck\bin\Debug\Deck.exe
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\Other\Extra Practice\Deck\bin\Debug\Deck.pdb
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\Other\Extra Practice\Deck\obj\Debug\Deck.csprojAssemblyReference.cache
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\Other\Extra Practice\Deck\obj\Debug\Deck.csproj.CoreCompileInputs.cache
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\Other\Extra Practice\Deck\obj\Debug\Deck.exe
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\Other\Extra Practice\Deck\obj\Debug\Deck.pdb

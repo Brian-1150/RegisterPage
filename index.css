@@ -1,0 +1,62 @@
+body {
+    background-color: rgba(33, 146, 221, 0.767);
+}
+#h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#button {
+    background-color: rgb(28, 105, 177);
+    width: 350px;
+    padding: 10px 10px 10px 10px; 
+    margin: 10px 10px 10px 10px;
+    border-radius: 7px;
+    font-size: larger;
+    color: white;
+}
+#button2 {
+    background-color: rgb(28, 105, 177);
+    width: 150px;
+    padding: 10px 10px 10px 10px; 
+    margin: 10px 10px 10px 10px;
+    border-radius: 7px;
+    font-size: larger;
+    color: white;
+}
+input {
+    font-size: larger;
+    border-radius: 7px;
+    background-color: lightgray ;
+    border:1px solid rgb(119, 116, 116);
+    width: 330px;
+    padding: 10px 10px 10px 10px; 
+    margin: 10px 5px 10px 10px;
+}
+
+
+.style {
+    
+    background-color: rgb(197, 194, 194);
+    border: 1px ridge rgb(139, 133, 133);
+    box-shadow:5px 5px 20px grey;  
+    border-radius: 7px;
+    margin-top: 250px;
+    margin-right: 750px;
+    margin-bottom: 200px;
+    margin-left: 700px;
+  padding: 20px 20px 20px 40px; 
+}
+.nav{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background-color: lightgray;
+    border: 2px inset rgb(66, 70, 71);
+    box-shadow:5px 5px 10px grey; 
+}
+.about{
+    position: fixed;
+    right: 0;
+}
