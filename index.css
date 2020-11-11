@@ -1,11 +1,21 @@
-body {
-    background-color: rgba(33, 146, 221, 0.767);
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+    <div class="nav">
+        <p class="about">
+        <button id="button2">About Us</button>body {
+    background-color: rgba(67, 143, 241, 0.795);
 }
 #h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
 #button {
-    background-color: rgb(28, 105, 177);
+    background-color: rgb(24, 52, 206);
     width: 350px;
     padding: 10px 10px 10px 10px; 
     margin: 10px 10px 10px 10px;
@@ -14,7 +24,7 @@ body {
     color: white;
 }
 #button2 {
-    background-color: rgb(28, 105, 177);
+    background-color: rgb(41, 70, 236);
     width: 150px;
     padding: 10px 10px 10px 10px; 
     margin: 10px 10px 10px 10px;
@@ -34,7 +44,7 @@ input {
 
 
 .style {
-    
+    position: fixed;
     background-color: rgb(197, 194, 194);
     border: 1px ridge rgb(139, 133, 133);
     box-shadow:5px 5px 20px grey;  
@@ -60,3 +70,24 @@ input {
     position: fixed;
     right: 0;
 }
+        <button id="button2">Register</button>
+        </p>
+      </div>
+   
+    <div class="style">
+    <form>
+        <p>
+            <h1 id="h1">Sign Up</h1>
+        </p>
+      <input type="email" placeholder ="Email"/>  <br>
+      <input type="text" placeholder ="Username"/><br>
+      <input type="password" placeholder="Password"/><br>
+      <input type="password" placeholder="Confirm Password"/><br>
+      <button id="button" type="submit">Submit</button>
+
+    </form>
+    <a href="https://amazon.com"><img src="Assets/social.png"width="350" height="100">
+    </a>
+    </div>
+</body>
+</html>
